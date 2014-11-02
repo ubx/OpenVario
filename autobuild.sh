@@ -24,7 +24,6 @@ source environment-angstrom-next
 
 export MACHINE=$1 
 export PACKAGE=$2
-#bitbake $2
 
 umask 000
 
