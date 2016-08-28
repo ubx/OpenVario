@@ -9,5 +9,5 @@ meta-mono,git://git.yoctoproject.org/meta-mono.git,master,bec66698046eb112df0be2
 meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,master,85faf6c6824597e7fd9e2d35fc9d8da2e9f90bc7
 meta-gumstix-community,git://github.com/schnitzeltony/meta-gumstix-community.git,master,9e8ab7d073013702f2a665024d16b587af750ad5
 meta-qt5,git://github.com/meta-qt5/meta-qt5,master,0e5756c97ace089ddd9714f0eafffd71dd15c6ab
-meta-openvario,http://git-ro.openvario.org/meta-openvario.git,master,HEAD
+meta-openvario,http://git-ro.openvario.org/meta-openvario.git,krogoth,HEAD
 openembedded-core,git://github.com/openembedded/openembedded-core.git,master,1dc9ce406497d6e996a40afc53293d9a576c8314
