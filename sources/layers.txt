@@ -12,4 +12,4 @@ meta-qt5,git://github.com/meta-qt5/meta-qt5,master,478fe949a957471a4d20450f6e937
 meta-ci,git://github.com/koenkooi/meta-ci.git,master,6440090ec889f0c9363b8ee9ad76e2477071b734
 meta-maker,http://git.yoctoproject.org/git/meta-maker,dizzy,7ed494e02cd7425d6be0c300932b8cbb431cef80
 openembedded-core,git://github.com/openembedded/openembedded-core.git,dizzy,7bb182bdd130266100fc541fd09b82d09c51cd80
-meta-openvario,http://git-ro.openvario.org/meta-openvario.git,next,HEAD
+meta-openvario,http://https://github.com/ubx/meta-openvario.git,next,HEAD
